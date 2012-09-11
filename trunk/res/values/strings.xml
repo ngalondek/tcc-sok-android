@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, MainList!</string>
+	<string name="app_name">天國之歌2012</string>
+	<string name="app_about">關於</string>
+	<string name="app_about_msg">你們要向耶和華唱新歌！全地都要向耶和華歌唱！（詩篇九十六篇1節）\n\n這本「天國之歌」製成於二〇〇七年，結合了台灣國際基督教會許多弟兄姊妹的奉獻，在翻譯、校對、編輯等事工上的協助；我們更感謝一群專業弟兄姊妹的付出，協助放上Android系統，讓大家可以隨時隨地使用智慧型手機、平板電腦來瀏覽詩歌，敬拜我們的神。\n\n這版歌本共有102首詩歌，包含了歌本號碼的搜尋功能，讓尋找歌曲更為便利。也特別感謝弟兄晨飛的協助，調整了此版本的字體設定，讓我們閱讀起來更為舒適。\n\n願我們歌唱耶和華的慈愛，直到永遠；用口將祂的信實傳與萬代！（詩篇八十九篇1節）</string>
+	<string name="str_ok">Amen</string>
+	<string name="app_version">Songs of the Kingdom v1.1.2</string>
+	<string name="alert_dialog_ok">OK</string>
+	<string name="alert_dialog_cancel">Cancel</string>
+<string name="search_hint">901</string>
+<string name="search_label">請輸入號碼</string>
+<string name="play">播放音樂</string>
+<string name="selectSongDefault">請輸入歌曲號碼然後按Enter跳至歌曲</string>
+</resources>
