@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, MainList!</string>
+	<string name="app_name">Songs of the Kingdom Chinese Version</string>
+	<string name="app_about">about</string>
+	<string name="app_about_msg">Sing to the Lord a new song; sing to the Lord, all the earth. (Psalm 96:1)\n\nThe ”Songs of the Kingdom Chinese Version” was edited in the year 2007. It was thanks to many disciples’ contribution to the work of translation, collation and editing. We are especially grateful for some disciples with professional background to help us set up this song book in Android system. Therefore we could use smart phones and tablet devices to search for hymns and worship the Lord at all times.\n\nThe ”Songs of the Kingdom Chinese Version” contains 102 songs. There is searching function for you to search songs by its number. We especially thank to Bruce Tseng for his help to set the fonts more comfortable to read.\n\nI will sing of the Lord’s great love forever; with my mouth I will make your faithfulness known through all generations. (Psalm 89:1)</string>
+	<string name="str_ok">Amen</string>
+	<string name="app_version">Songs of the Kingdom v1.1.2</string>
+	<string name="alert_dialog_ok">OK</string>
+	<string name="alert_dialog_cancel">Cancel</string>
+<string name="search_hint">901</string>
+<string name="search_label">請輸入號碼</string>
+<string name="play">Play Music</string>
+<string name="selectSongDefault">請輸入歌曲號碼然後按Enter跳至歌曲</string>
+</resources>

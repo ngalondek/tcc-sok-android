@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:baselineAligned="true" 
+	android:orientation="vertical" 
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content" 
+	android:layout_gravity="fill" android:fitsSystemWindows="true">
+
+<EditText 
+	android:layout_width="fill_parent"	 
+	android:hint="@string/selectSongDefault" 
+	android:singleLine="false" 
+	android:id="@+id/EditText01" 
+	android:layout_height="fill_parent"
+	android:layout_gravity="center"	
+	android:inputType="phone|number"
+	android:numeric="integer">
+</EditText>
+
+<ListView 
+	android:id="@+id/ListView01" 
+	android:entries="@array/SongTitle"
+	android:focusable="true" 
+	android:layout_height="wrap_content"
+	android:layout_width="fill_parent" android:layout_gravity="fill" android:fitsSystemWindows="true">
+</ListView>
+
+
+
+
+</LinearLayout>
